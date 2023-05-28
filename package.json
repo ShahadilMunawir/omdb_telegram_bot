@@ -1,0 +1,13 @@
+{
+    "name": "omdb_telegram_bot",
+    "author": "Shahadil Munawir",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "dependencies": {
+        "axios": "^1.4.0",
+        "dotenv": "^16.0.3",
+        "telegraf": "^4.12.2"
+    }
+}
